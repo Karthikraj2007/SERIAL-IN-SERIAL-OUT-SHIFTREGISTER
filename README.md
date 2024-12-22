@@ -16,7 +16,7 @@ A Serial-In Serial-Out shift register is a sequential logic circuit that allows 
 
 The logic circuit provided below demonstrates a serial-in serial-out (SISO) shift register. It comprises four D flip-flops that are interconnected in a sequential manner. These flip-flops operate synchronously with one another, as they all receive the same clock signal.
 
-![image]
+![image](https://github.com/naavaneetha/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/154305477/e81c4072-37f9-46c6-8145-566764b74c3a)
 
 Figure 01 4 Bit SISO Register
 
@@ -35,7 +35,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* 
 Developed by:Karthikraj C
-RegisterNumber:24901034
+Ref No.:24901034
 
 */
 ```
@@ -55,10 +55,12 @@ endmodule
 ```
 **RTL LOGIC FOR SISO Shift Register**
 
-![image]
+![image](https://github.com/23004513/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138973069/c8ee160b-0e98-4ef3-9f1e-ecc1fa089f01)
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![image]
+![image](https://github.com/23004513/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138973069/84df2e71-7d10-49a5-957c-9b5bf5c43c64)
+
 **RESULTS**
 
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
